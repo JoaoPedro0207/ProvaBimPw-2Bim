@@ -13,8 +13,8 @@ main {
 }
 
 .navbar div,
-.navbar div a,
-.navbar input[type="text"] {
+.navbar div a
+{
   color: white;
   text-decoration: none;
   margin-right: 15px;
@@ -24,6 +24,7 @@ main {
 }
 
 .navbar input {
+  color: white;
   padding: 5px;
   border-color: white;
   border: solid;
@@ -35,8 +36,8 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 10%;
-
+  width: 15%;
+  margin-right: 8%;
 }
 
 .icones-sociais {
@@ -556,5 +557,4 @@ pre{
 
 .icon-title {
   padding-bottom: 10px;
-
 }
